@@ -112,14 +112,6 @@ body {
     box-shadow: 0 0 0 0.2rem rgba(158, 158, 158, 0.25);
 }
 
-.input:valid {
-    border-color: #bdbdbd;
-}
-
-.input:invalid {
-    border-color: blue;
-}
-
 .row2 {
     margin-top: 1.5em;
 }
